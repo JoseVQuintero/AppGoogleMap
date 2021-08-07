@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266886735706",
+    "project_id": "global-standard-322001",
+    "storage_bucket": "global-standard-322001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266886735706:android:e53eca11947d13cf81f563",
+        "android_client_info": {
+          "package_name": "com.danisable.appgooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266886735706-2fou49e1fth78lks2nnulrojgk2dljvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zno2uiuKXMWHRTK0xdwpzfwxWan33fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266886735706-2fou49e1fth78lks2nnulrojgk2dljvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
